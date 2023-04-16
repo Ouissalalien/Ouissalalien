@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Ouissalalien
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cybersecurity 
+- 🌱 I’m currently learning  Master system intelligent communicat
+- 💞️ I’m looking to collaborate on project network or secuity 
+- 📫 How to reach me https://www.linkedin.com/in/ouissale-boghanmi/
 
-<!---
-Ouissalalien/Ouissalalien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
